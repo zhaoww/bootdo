@@ -12,6 +12,8 @@ File Encoding         : 65001
 
 Date: 2018-01-10 13:21:30
 */
+CREATE DATABASE IF NOT EXISTS bootdo DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
+use bootdo;
 
 SET FOREIGN_KEY_CHECKS=0;
 
